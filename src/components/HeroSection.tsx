@@ -2,6 +2,9 @@ import Image from "next/image";
 import { person } from "@/data/portfolio";
 
 export function HeroSection() {
+  const [firstNamePart, ...remainingNameParts] = person.name.trim().split(/\s+/);
+  const remainingName = remainingNameParts.join(" ");
+
   return (
     <section
       id="top"
@@ -30,7 +33,8 @@ export function HeroSection() {
             id="hero-heading"
             className="font-[family-name:var(--font-display)] text-3xl font-semibold leading-tight tracking-tight text-white sm:text-4xl md:text-5xl lg:text-6xl"
           >
-            {person.name}
+            <span className="block">{firstNamePart}</span>
+            {remainingName ? <span className="block">{remainingName}</span> : null}
           </h1>
           <p className="mt-4 max-w-2xl text-lg text-zinc-300 sm:text-xl md:text-2xl">
             {person.title}
