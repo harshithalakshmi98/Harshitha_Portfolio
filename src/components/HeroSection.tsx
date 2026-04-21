@@ -58,9 +58,9 @@ export function HeroSection() {
         </div>
 
         <div className="order-1 flex justify-center lg:order-2 lg:justify-end">
-          <div className="relative aspect-[3/4] w-full max-w-[240px] overflow-hidden rounded-[2rem] border border-white/10 sm:max-w-[280px] lg:max-w-[min(100%,20rem)]">
+          <div className="relative aspect-[5/6] w-full max-w-[220px] overflow-hidden rounded-2xl border border-white/10 sm:max-w-[260px] lg:max-w-[min(100%,18rem)]">
             <div
-              className="absolute inset-0 rounded-[2rem] bg-gradient-to-br from-[var(--accent)]/25 to-transparent blur-xl"
+              className="absolute inset-0 rounded-2xl bg-gradient-to-br from-[var(--accent)]/25 to-transparent blur-xl"
               aria-hidden
             />
             <Image
@@ -69,8 +69,8 @@ export function HeroSection() {
               width={640}
               height={853}
               priority
-              sizes="(max-width: 1024px) 280px, 320px"
-              className="relative h-full w-full object-cover object-[center_22%] shadow-2xl shadow-black/40"
+              sizes="(max-width: 1024px) 260px, 288px"
+              className="relative h-full w-full scale-[1.2] object-cover object-[center_18%] shadow-2xl shadow-black/40 [transform-origin:50%_16%]"
             />
           </div>
         </div>

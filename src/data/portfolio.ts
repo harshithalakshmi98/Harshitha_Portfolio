@@ -37,10 +37,6 @@ export const skillGroups = [
     items: ["Python", "Jupyter", "Machine Learning", "Pandas", "NumPy"],
   },
   {
-    title: "Front-End",
-    items: ["Desktop UI with Java Swing (not browser-based front end)"],
-  },
-  {
     title: "Back-End & Databases",
     items: ["MySQL"],
   },
@@ -59,10 +55,6 @@ export const skillGroups = [
   {
     title: "Project Management & Tools",
     items: ["Figma", "Git", "Canva", "Slack"],
-  },
-  {
-    title: "Others",
-    items: ["AI"],
   },
 ] as const;
 
