@@ -1,10 +1,11 @@
 import { experience } from "@/data/portfolio";
+import { highlightKeywords } from "@/lib/highlightKeywords";
 
 export function ExperienceSection() {
   return (
     <section
       id="experience"
-      className="scroll-mt-24 px-4 py-16 sm:px-5 sm:py-20 md:scroll-mt-28"
+      className="scroll-mt-24 px-4 py-10 sm:px-5 sm:py-12 md:scroll-mt-28"
       aria-labelledby="experience-heading"
     >
       <div className="mx-auto max-w-6xl">
@@ -14,7 +15,7 @@ export function ExperienceSection() {
         >
           Experience
         </h2>
-        <ol className="mt-10 space-y-8">
+        <ol className="mt-6 space-y-5">
           {experience.map((job) => (
             <li
               key={`${job.company}-${job.period}`}
@@ -39,7 +40,9 @@ export function ExperienceSection() {
                       className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-[var(--accent)]"
                       aria-hidden
                     />
-                    <span>{line}</span>
+                    <span>
+                      {highlightKeywords(line, job.highlightKeywords)}
+                    </span>
                   </li>
                 ))}
               </ul>

@@ -8,7 +8,7 @@ export function HeroSection() {
   return (
     <section
       id="top"
-      className="relative overflow-hidden px-4 pb-20 pt-28 sm:px-5 sm:pb-24 sm:pt-32 md:pb-32 md:pt-40"
+      className="relative overflow-hidden px-4 pb-14 pt-24 sm:px-5 sm:pb-16 sm:pt-28 md:pb-20 md:pt-32"
       aria-labelledby="hero-heading"
     >
       <div
@@ -20,7 +20,7 @@ export function HeroSection() {
         aria-hidden
       />
 
-      <div className="relative mx-auto grid max-w-6xl gap-10 lg:grid-cols-[1fr_auto] lg:items-center lg:gap-14">
+      <div className="relative mx-auto grid max-w-6xl gap-8 lg:grid-cols-[1fr_auto] lg:items-center lg:gap-10">
         <div className="order-2 min-w-0 lg:order-1">
           <p className="mb-3 inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-medium uppercase tracking-wider text-[var(--accent)] sm:text-sm">
             <span
@@ -58,7 +58,7 @@ export function HeroSection() {
         </div>
 
         <div className="order-1 flex justify-center lg:order-2 lg:justify-end">
-          <div className="relative aspect-square w-full max-w-[280px] sm:max-w-[320px] lg:max-w-[min(100%,22rem)]">
+          <div className="relative aspect-[3/4] w-full max-w-[240px] overflow-hidden rounded-[2rem] border border-white/10 sm:max-w-[280px] lg:max-w-[min(100%,20rem)]">
             <div
               className="absolute inset-0 rounded-[2rem] bg-gradient-to-br from-[var(--accent)]/25 to-transparent blur-xl"
               aria-hidden
@@ -66,11 +66,11 @@ export function HeroSection() {
             <Image
               src={person.profileImage}
               alt={`${person.name}, ${person.title}`}
-              width={512}
-              height={512}
+              width={640}
+              height={853}
               priority
-              sizes="(max-width: 1024px) 280px, 352px"
-              className="relative h-full w-full rounded-[2rem] border border-white/10 object-cover shadow-2xl shadow-black/40"
+              sizes="(max-width: 1024px) 280px, 320px"
+              className="relative h-full w-full object-cover object-[center_22%] shadow-2xl shadow-black/40"
             />
           </div>
         </div>

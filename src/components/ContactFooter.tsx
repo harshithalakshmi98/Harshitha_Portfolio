@@ -4,7 +4,7 @@ export function ContactFooter() {
   return (
     <footer
       id="contact"
-      className="scroll-mt-24 border-t border-white/10 bg-black/40 px-4 py-16 sm:px-5 sm:py-20 md:scroll-mt-28"
+      className="scroll-mt-24 border-t border-white/10 bg-black/40 px-4 py-10 sm:px-5 sm:py-12 md:scroll-mt-28"
     >
       <div className="mx-auto max-w-6xl">
         <h2 className="font-[family-name:var(--font-display)] text-2xl font-semibold tracking-tight text-white sm:text-3xl">
@@ -14,7 +14,7 @@ export function ContactFooter() {
           Open to roles and collaborations in AI engineering, analytics, and
           data-driven product work.
         </p>
-        <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:gap-8">
+        <div className="mt-6 flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:gap-8">
           <a
             href={`mailto:${person.email}`}
             className="min-h-[44px] text-[var(--accent)] underline-offset-4 hover:underline"
@@ -29,7 +29,7 @@ export function ContactFooter() {
           </a>
           <span className="text-zinc-400">{person.location}</span>
         </div>
-        <p className="mt-12 text-center text-xs text-zinc-600 sm:text-left">
+        <p className="mt-8 text-center text-xs text-zinc-600 sm:text-left">
           © {new Date().getFullYear()} {person.name}. Built with Next.js.
         </p>
       </div>

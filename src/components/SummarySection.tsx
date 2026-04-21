@@ -4,7 +4,7 @@ export function SummarySection() {
   return (
     <section
       id="about"
-      className="scroll-mt-24 px-4 py-16 sm:px-5 sm:py-20 md:scroll-mt-28"
+      className="scroll-mt-24 px-4 py-10 sm:px-5 sm:py-12 md:scroll-mt-28"
       aria-labelledby="about-heading"
     >
       <div className="mx-auto max-w-6xl">

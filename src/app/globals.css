@@ -7,6 +7,8 @@
   --surface-elevated: #141821;
   --accent: #2dd4bf;
   --accent-foreground: #042f2e;
+  /** Highlighted terms in project descriptions (distinct from link accent) */
+  --keyword: #c4b5fd;
   --glow-1: rgba(45, 212, 191, 0.18);
   --glow-2: rgba(99, 102, 241, 0.12);
 }

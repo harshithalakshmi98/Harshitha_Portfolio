@@ -4,7 +4,7 @@ export function EducationSection() {
   return (
     <section
       id="education"
-      className="scroll-mt-24 px-4 py-16 sm:px-5 sm:py-20 md:scroll-mt-28"
+      className="scroll-mt-24 px-4 py-10 sm:px-5 sm:py-12 md:scroll-mt-28"
       aria-labelledby="education-heading"
     >
       <div className="mx-auto max-w-6xl">
@@ -14,7 +14,7 @@ export function EducationSection() {
         >
           Education
         </h2>
-        <ul className="mt-10 grid grid-cols-1 gap-6 lg:grid-cols-2">
+        <ul className="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2">
           {education.map((entry) => (
             <li
               key={entry.degree}

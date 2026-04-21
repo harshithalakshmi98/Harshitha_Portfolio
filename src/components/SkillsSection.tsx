@@ -4,7 +4,7 @@ export function SkillsSection() {
   return (
     <section
       id="skills"
-      className="scroll-mt-24 px-4 py-16 sm:px-5 sm:py-20 md:scroll-mt-28"
+      className="scroll-mt-24 px-4 py-10 sm:px-5 sm:py-12 md:scroll-mt-28"
       aria-labelledby="skills-heading"
     >
       <div className="mx-auto max-w-6xl">
@@ -18,7 +18,7 @@ export function SkillsSection() {
           A concise map of tools and domains I work across—from classical Java
           desktop engineering to ML and cloud operations.
         </p>
-        <ul className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <ul className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {skillGroups.map((group) => (
             <li
               key={group.title}

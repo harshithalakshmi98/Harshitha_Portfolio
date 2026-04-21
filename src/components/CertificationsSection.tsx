@@ -4,7 +4,7 @@ export function CertificationsSection() {
   return (
     <section
       id="certifications"
-      className="scroll-mt-24 px-4 py-16 sm:px-5 sm:py-20 md:scroll-mt-28"
+      className="scroll-mt-24 px-4 py-10 sm:px-5 sm:py-12 md:scroll-mt-28"
       aria-labelledby="certifications-heading"
     >
       <div className="mx-auto max-w-6xl">
@@ -14,7 +14,7 @@ export function CertificationsSection() {
         >
           Certifications
         </h2>
-        <ul className="mt-10 space-y-4">
+        <ul className="mt-6 space-y-4">
           {certifications.map((cert) => (
             <li key={cert.url}>
               <a
