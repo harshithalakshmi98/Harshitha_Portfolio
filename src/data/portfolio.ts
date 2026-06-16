@@ -114,6 +114,32 @@ export const education = [
 
 export const projects = [
   {
+    name: "Google Maps Review Rating Classification — Applied Text Analytics (F21AA)",
+    description:
+      "Built a multi-class NLP system to predict 1–5 star ratings from Google Maps review text for Heriot-Watt F21AA coursework. Compared text preprocessing pipelines, TF-IDF and embedding features, classical models, BiLSTM sequence models, and fine-tuned transformers (DistilBERT, RoBERTa), with cross-validation, topic modelling, and Kaggle ensemble submissions.",
+    githubUrl: "https://github.com/sagarr57/F21AA_CW2_PG_Group4",
+    keywords: [
+      "multi-class",
+      "Google Maps",
+      "text preprocessing",
+      "TF-IDF",
+      "BiLSTM",
+      "DistilBERT",
+      "RoBERTa",
+      "Kaggle",
+      "topic modelling",
+    ],
+    tech: [
+      "Python",
+      "NLP",
+      "NLTK",
+      "scikit-learn",
+      "PyTorch",
+      "Transformers",
+      "TF-IDF",
+    ],
+  },
+  {
     name: "Lunar Mission Visualizer — PDDL Planning Simulator",
     description:
       "Designed frontend simulator for lunar exploration domain with PDDL-style plans. Implemented mission selection, visualization, and animated SVG maps.",
