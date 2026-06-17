@@ -12,6 +12,9 @@ export const person = {
 export const summary =
   "MSc Artificial Intelligence student and aspiring AI Engineer with hands-on experience building NLP, computer vision, and neural network systems in Python and PyTorch. Six years at TCS applying SQL-driven analytics, root cause analysis, and performance dashboards that cut repeat incidents by 30%. Skilled in ML pipelines, transformer fine-tuning, and prompt engineering for LLM-based workflows. Eager to deploy data-driven AI solutions with measurable impact.";
 
+export const appliedAiNote =
+  "Applied prompt-engineering workflows with ManyChat and AI content tools to optimize social media messaging, testing prompt variations to improve audience reach and engagement.";
+
 export const navItems = [
   { id: "about", label: "About" },
   { id: "skills", label: "Skills" },
@@ -19,6 +22,7 @@ export const navItems = [
   { id: "education", label: "Education" },
   { id: "projects", label: "Projects" },
   { id: "certifications", label: "Certifications" },
+  { id: "community", label: "Community" },
   { id: "contact", label: "Contact" },
 ] as const;
 
@@ -247,6 +251,10 @@ export const projects = [
 ] as const;
 
 export const certifications = [
+  {
+    name: "Claude 101 by Anthropic Education",
+    url: "https://verify.skilljar.com/c/n7r9dkczh5fw",
+  },
   {
     name: "Prompt Engineering: How to Talk to the AIs",
     url: "https://www.linkedin.com/learning/certificates/4985edf4cef6d31bc473062e4d3bbe8606c25c3d23d94430fb8509aa9281ae74",
