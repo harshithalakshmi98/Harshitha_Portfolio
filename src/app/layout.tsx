@@ -18,11 +18,11 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: `${person.name} · ${person.title}`,
   description:
-    "AI Engineer portfolio — machine learning, data visualization, Java, Python, and incident analytics.",
+    "AI Engineer portfolio — NLP, computer vision, PyTorch, prompt engineering, and data-driven analytics.",
   openGraph: {
     title: `${person.name} · ${person.title}`,
     description:
-      "Software engineer pursuing MSc in AI; experience in analytics, ML, and full-stack adjacent tooling.",
+      "MSc AI student building ML systems in Python and PyTorch, with experience in analytics and prompt engineering.",
     type: "website",
   },
 };

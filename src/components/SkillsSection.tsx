@@ -15,8 +15,8 @@ export function SkillsSection() {
           Skills
         </h2>
         <p className="mt-2 max-w-2xl text-sm text-zinc-400 sm:text-base">
-          A concise map of tools and domains I work across—from classical Java
-          desktop engineering to ML and cloud operations.
+          Core tools for building, evaluating, and deploying machine learning
+          systems—from Python ML stacks to modern web and data tooling.
         </p>
         <ul className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {skillGroups.map((group) => (
