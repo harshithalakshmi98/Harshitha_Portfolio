@@ -1,7 +1,7 @@
-# 00 — Interview Roadmap & Procedure
+# 01 — Interview Roadmap & Procedure
 
-> **✅ Full coverage audit:** [`10-COVERAGE-VERIFICATION.md`](./10-COVERAGE-VERIFICATION.md)  
-> **⭐ Real-world narrated examples:** [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md)
+> **✅ Full coverage audit:** [`02-coverage-verification.md`](./02-coverage-verification.md)  
+> **⭐ Real-world narrated examples:** [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md)
 
 ## What a typical AI Engineer interview looks like
 

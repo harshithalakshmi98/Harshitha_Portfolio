@@ -1,8 +1,8 @@
-# 04 — All Projects: ELI5 + Real Use Cases + Interview Q&A
+# 06 — All Projects: ELI5 + Real Use Cases + Interview Q&A
 
 Seven projects from your portfolio. For each: **simple explanation**, **industry use case**, **what you did**, **likely interview questions**.
 
-> **📖 Deep real-world narrated examples:** see [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md) (Sections A–H).
+> **📖 Deep real-world narrated examples:** see [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md) (Sections A–H).
 
 ---
 
@@ -296,4 +296,4 @@ A **museum shop database** for furniture, sculptures, coins — add items, sort 
 | **Crop AI** | "Tabular crop recommendation from soil/climate; CNN disease classifier across 38 leaf classes." |
 | **Portfolio** | "Next.js 16 site — data-driven sections, keyword highlights, mobile-first, built with agent-assisted workflow." |
 
-See [`11-msc-coursework-portfolio-site.md`](./11-msc-coursework-portfolio-site.md) for portfolio technical deep-dive.
+See [`10-msc-coursework-portfolio-site.md`](./10-msc-coursework-portfolio-site.md) for portfolio technical deep-dive.

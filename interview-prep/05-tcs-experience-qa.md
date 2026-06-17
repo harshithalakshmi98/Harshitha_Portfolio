@@ -1,6 +1,6 @@
-# 03 — TCS Experience: Major Incident Manager (ELI5 + STAR + Q&A)
+# 05 — TCS Experience: Major Incident Manager (ELI5 + STAR + Q&A)
 
-> **📖 Full STAR story template + SQL examples:** [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md) Section B.
+> **📖 Full STAR story template + SQL examples:** [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md) Section B.
 
 **Role:** Major Incident Manager  
 **Company:** Tata Consultancy Services (TCS)  

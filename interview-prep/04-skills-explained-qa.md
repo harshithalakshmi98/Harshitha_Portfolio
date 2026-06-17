@@ -1,4 +1,4 @@
-# 02 — All Skills Explained (ELI5 + Real Use Cases + Q&A)
+# 04 — All Skills Explained (ELI5 + Real Use Cases + Q&A)
 
 Every skill listed on your portfolio, explained simply, then interview-ready.
 
@@ -231,5 +231,5 @@ Every skill listed on your portfolio, explained simply, then interview-ready.
 
 ---
 
-> **📖 More real-world skill scenarios:** [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md)  
-> **📖 GCP, GitHub Actions, portfolio architecture:** [`11-msc-coursework-portfolio-site.md`](./11-msc-coursework-portfolio-site.md)
+> **📖 More real-world skill scenarios:** [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md)  
+> **📖 GCP, GitHub Actions, portfolio architecture:** [`10-msc-coursework-portfolio-site.md`](./10-msc-coursework-portfolio-site.md)

@@ -1,8 +1,9 @@
-# 08 — AI Tools: Claude, Claude Code, Agents, Prompt Engineering & Token Optimization
+# 12 — AI Tools: Claude, Claude Code, Agents, Prompt Engineering & Token Optimization
 
 Interview-ready Q&A based on Anthropic documentation (2025–2026). Use this when asked about **how you use AI in development**.
 
-> **📖 Step-by-step portfolio build with agents:** [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md) Section D.
+> **📖 Step-by-step portfolio build with agents:** [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md) Section D.  
+> **📖 AI-first workflow interview tiers:** [`14-ai-first-engineering-workflow-qa.md`](./14-ai-first-engineering-workflow-qa.md)
 
 ---
 

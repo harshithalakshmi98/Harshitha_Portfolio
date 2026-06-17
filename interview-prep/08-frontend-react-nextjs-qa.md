@@ -1,4 +1,4 @@
-# 06 — Frontend: React, Next.js, TypeScript (Interview Q&A)
+# 08 — Frontend: React, Next.js, TypeScript (Interview Q&A)
 
 Based on Sudoku, Lunar Visualizer, and your **Harshitha_Portfolio** (Next.js 16, Tailwind, Outfit + DM Sans).
 

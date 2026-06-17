@@ -1,4 +1,4 @@
-# 11 — MSc Coursework, Certification & Portfolio Website (Detailed + Q&A)
+# 10 — MSc Coursework, Certification & Portfolio Website (Detailed + Q&A)
 
 Topics not tied to a single GitHub project but critical in interviews.
 
@@ -222,7 +222,7 @@ src/app/globals.css       ← theme tokens (--accent, --keyword)
 **A:** Most sections are Server Components — data imported at build/render time, less client JS. Use `"use client"` only when browser interactivity needed (e.g. mobile menu state in header).
 
 **Q: How did you build it with AI agents?**  
-**A:** Cursor/Claude for scaffolding components matching design tokens; I reviewed diffs, ran `npm run build`, adjusted spacing and accessibility manually. See `12` Section D for step-by-step.
+**A:** Cursor/Claude for scaffolding components matching design tokens; I reviewed diffs, ran `npm run build`, adjusted spacing and accessibility manually. See `11` Section D for step-by-step.
 
 **Q: highlightKeywords — why not dangerouslySetInnerHTML?**  
 **A:** React-safe: split text and wrap matches in `<span>` — avoids XSS and keeps styling in CSS variables.

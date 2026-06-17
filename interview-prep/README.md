@@ -2,56 +2,71 @@
 
 Complete study pack for **AI Engineer** interviews, aligned with your portfolio, skills, projects, and TCS experience.
 
-**Total: 14 files** — verified against `src/data/portfolio.ts` (see `10-COVERAGE-VERIFICATION.md`).
+**16 files** (README + **01–15** in study order) — verified in [`02-coverage-verification.md`](./02-coverage-verification.md).
 
-## How to use this pack
+---
 
-1. **Day 0:** Open `10-COVERAGE-VERIFICATION.md` — tick what you can explain aloud  
-2. **Day 1–2:** `00` + `01` + **`12` Section G** (intro scripts)  
-3. **Day 3–4:** `02` + `03` + **`12` Section B** (TCS examples)  
-4. **Day 5–7:** `04` + **`12` Sections A, C–F** (one project per day)  
-5. **Day 8–9:** `05` + `06` + `11` (Java, frontend, portfolio site)  
-6. **Day 10–11:** `07` + **`12` Section I** (metrics)  
-7. **Day 12–13:** `08` + **`12` Section D** (AI agents)  
-8. **Day 14:** `09` full mock + re-check `10`  
+## Study order (read in this sequence)
 
-## File index
+| Step | File | Topic |
+|------|------|--------|
+| **Start** | [README.md](./README.md) | You are here |
+| **01** | [01-interview-roadmap.md](./01-interview-roadmap.md) | Interview stages, STAR, ELI5 framework |
+| **02** | [02-coverage-verification.md](./02-coverage-verification.md) | Checklist — tick every portfolio item |
+| **03** | [03-your-story-and-profile.md](./03-your-story-and-profile.md) | Intro scripts, education, motivation |
+| **04** | [04-skills-explained-qa.md](./04-skills-explained-qa.md) | All portfolio skills |
+| **05** | [05-tcs-experience-qa.md](./05-tcs-experience-qa.md) | TCS role + STAR stories |
+| **06** | [06-projects-complete-qa.md](./06-projects-complete-qa.md) | All 7 projects + pitches |
+| **07** | [07-java-backend-testing-qa.md](./07-java-backend-testing-qa.md) | Java, OOP, MySQL, JUnit |
+| **08** | [08-frontend-react-nextjs-qa.md](./08-frontend-react-nextjs-qa.md) | React, Next.js, portfolio UI |
+| **09** | [09-ml-nlp-deep-learning-qa.md](./09-ml-nlp-deep-learning-qa.md) | ML, NLP, CV, transformers |
+| **10** | [10-msc-coursework-portfolio-site.md](./10-msc-coursework-portfolio-site.md) | MSc modules, GCP, site architecture |
+| **11** | [11-real-world-examples-workbook.md](./11-real-world-examples-workbook.md) | ⭐ Narrated real-world examples |
+| **12** | [12-ai-claude-agents-prompt-engineering-qa.md](./12-ai-claude-agents-prompt-engineering-qa.md) | Claude, tokens, prompts, agents |
+| **13** | [13-github-teams-and-slack-qa.md](./13-github-teams-and-slack-qa.md) | GitHub Teams, PRs, Slack |
+| **14** | [14-ai-first-engineering-workflow-qa.md](./14-ai-first-engineering-workflow-qa.md) | ⭐ AI-first dev Tiers 1–5 |
+| **15** | [15-master-mock-interview-qa.md](./15-master-mock-interview-qa.md) | 110+ mock Q&A — practice last |
 
-| File | What it covers |
-|------|----------------|
-| [00-interview-roadmap.md](./00-interview-roadmap.md) | Interview stages, STAR, ELI5 framework, checklist |
-| [01-your-story-and-profile.md](./01-your-story-and-profile.md) | Summary, education, intro scripts, motivation Q&A |
-| [02-skills-explained-qa.md](./02-skills-explained-qa.md) | Every portfolio skill — ELI5 + technical + Q&A |
-| [03-tcs-experience-qa.md](./03-tcs-experience-qa.md) | TCS role — STAR + full example story + Q&A |
-| [04-projects-complete-qa.md](./04-projects-complete-qa.md) | All 7 projects + portfolio pitch table |
-| [05-java-backend-testing-qa.md](./05-java-backend-testing-qa.md) | Java, OOP, Swing, Maven, MySQL, JUnit |
-| [06-frontend-react-nextjs-qa.md](./06-frontend-react-nextjs-qa.md) | React, Next.js, TypeScript, portfolio stack |
-| [07-ml-nlp-deep-learning-qa.md](./07-ml-nlp-deep-learning-qa.md) | ML, NLP, CV, ANN, PSO, transformers, metrics |
-| [08-ai-claude-agents-prompt-engineering-qa.md](./08-ai-claude-agents-prompt-engineering-qa.md) | Claude, Claude Code, agents, tokens, real prompts |
-| [09-master-mock-interview-qa.md](./09-master-mock-interview-qa.md) | 110+ rapid Q&A + coding drills |
-| **[10-COVERAGE-VERIFICATION.md](./10-COVERAGE-VERIFICATION.md)** | **Audit checklist — every portfolio item mapped** |
-| **[11-msc-coursework-portfolio-site.md](./11-msc-coursework-portfolio-site.md)** | **MSc modules, Udemy cert, GCP, portfolio architecture** |
-| **[12-real-world-examples-workbook.md](./12-real-world-examples-workbook.md)** | **⭐ Main narrated examples — study this heavily** |
-| **[13-github-teams-and-slack-qa.md](./13-github-teams-and-slack-qa.md)** | **GitHub Orgs/Teams, PR workflow, Slack basics + etiquette** |
+---
 
-## Your one-line pitch (memorize)
+## 14-day plan
 
-> "I'm an AI Engineer with 6+ years at TCS leading incident response and analytics, now completing an MSc in AI at Heriot-Watt. I build end-to-end systems — from Java desktop apps and React frontends to NLP pipelines with transformers and computer-vision models — and I use modern AI coding agents responsibly to ship faster while keeping quality high."
+| Days | Files |
+|------|--------|
+| 1–2 | `01` → `02` → `03` + **`11` Section G** |
+| 3–4 | `04` → `05` + **`11` Section B** |
+| 5–7 | `06` + **`11` Sections A, C–F** (one project/day) |
+| 8–9 | `07` → `08` → `10` |
+| 10–11 | `09` + **`11` Section I** |
+| 12–13 | `12` → `13` → `14` + **`11` Section D** |
+| 14 | `15` full mock + re-check `02` |
+
+---
 
 ## 48-hour crash path
 
-If interview is soon: `10` → `12` (all sections) → `04` Project 1 → `03` → `09` (50 questions) → `08`.
+`02` → `11` (all) → `14` → `06` Project 1 → `05` → `15` (50 Qs) → `12`
 
-## Links to keep handy
+---
 
-- Portfolio repo: https://github.com/harshithalakshmi98/Harshitha_Portfolio  
+## One-line pitch
+
+> "I'm an AI Engineer with 6+ years at TCS leading incident response and analytics, now completing an MSc in AI at Heriot-Watt. I build end-to-end systems — from Java desktop apps and React frontends to NLP pipelines with transformers and computer-vision models — and I use modern AI coding agents responsibly to ship faster while keeping quality high."
+
+---
+
+## Before the interview — 5 checks
+
+- [ ] Explain **F21AA** with a real review (`11` Section A)
+- [ ] One true **TCS STAR** story (`05` + `11` Section B)
+- [ ] Draw **train/val/test** + confusion matrix (`09`)
+- [ ] How you built portfolio with agents (`11` D + `14`)
+- [ ] Why **"AI wrote it"** is not enough (`14` Q9, Q20, Q30)
+
+---
+
+## Links
+
+- Portfolio: https://github.com/harshithalakshmi98/Harshitha_Portfolio  
 - ATA project: https://github.com/sagarr57/F21AA_CW2_PG_Group4  
 - LinkedIn: https://www.linkedin.com/in/harshitha-lakshmi-pedakamsetti-136511139/
-
-## Before you walk in — 5-item check
-
-- [ ] I can explain **F21AA** with a real review example (`12` A1)  
-- [ ] I have **one true TCS STAR** story (not only the template)  
-- [ ] I can draw **train/val/test** and **confusion matrix**  
-- [ ] I can describe **how I built the portfolio** with agents (`12` D)  
-- [ ] I personalized **group project contributions** honestly  

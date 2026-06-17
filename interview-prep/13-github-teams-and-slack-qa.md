@@ -86,7 +86,7 @@ Think: **Org = building**, **Team = department**, **Repo = project room**.
 | **Branch protection** | `main` needs 1–2 approvals, CI green |
 | **GitHub Projects** | Kanban board tied to issues/PRs |
 | **Discussions** | Forum inside repo (design decisions) |
-| **Actions** | CI/CD (see `11-msc-coursework-portfolio-site.md`) |
+| **Actions** | CI/CD (see `10-msc-coursework-portfolio-site.md`) |
 
 ### Real company example
 
@@ -304,7 +304,7 @@ GitHub holds the **homework**; Slack is where you **talk about the homework**; G
 
 ## Cross-links
 
-- Git basics in workflow: [`02-skills-explained-qa.md`](./02-skills-explained-qa.md)  
-- GitHub Actions CI: [`11-msc-coursework-portfolio-site.md`](./11-msc-coursework-portfolio-site.md)  
-- Group project narrative: [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md)  
-- Mock questions: [`09-master-mock-interview-qa.md`](./09-master-mock-interview-qa.md)
+- Git basics in workflow: [`04-skills-explained-qa.md`](./04-skills-explained-qa.md)  
+- GitHub Actions CI: [`10-msc-coursework-portfolio-site.md`](./10-msc-coursework-portfolio-site.md)  
+- Group project narrative: [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md)  
+- Mock questions: [`15-master-mock-interview-qa.md`](./15-master-mock-interview-qa.md)

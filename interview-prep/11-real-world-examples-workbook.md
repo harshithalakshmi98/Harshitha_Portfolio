@@ -1,4 +1,4 @@
-# 12 — Real-World Examples Workbook (Study This for Interviews)
+# 11 — Real-World Examples Workbook (Study This for Interviews)
 
 Every section: **ELI5 → Real company → Your project → Sample interview answer (say this aloud).**
 
@@ -324,7 +324,7 @@ Add:
 4. "Ethical risks of auto-rating reviews?"  
 5. "How does your incident background change how you ship code?"
 
-Prepare 3-sentence answers for each using Sections A–B and `08`.
+Prepare 3-sentence answers for each using Sections A–B and `12`.
 
 ---
 
@@ -334,6 +334,6 @@ Prepare 3-sentence answers for each using Sections A–B and `08`.
 2. Explain Section A1 without looking  
 3. Draw Coffee Shop classes (Section C1)  
 4. Recite DistilBERT vs LogReg table (Section A3)  
-5. Answer 10 random questions from `09`  
+5. Answer 10 random questions from `15`  
 
 **Pass criteria:** Under 90 seconds per topic, no long pauses, at least one real company name per answer.

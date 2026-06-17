@@ -1,6 +1,6 @@
-# 01 — Your Story, Profile & Education (ELI5 + Q&A)
+# 03 — Your Story, Profile & Education (ELI5 + Q&A)
 
-> **📖 Memorize intro scripts (60s / 2min / 5min):** [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md) Section G.
+> **📖 Memorize intro scripts (60s / 2min / 5min):** [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md) Section G.
 
 ## Who you are (portfolio facts)
 
@@ -112,7 +112,7 @@ GITAM (CS fundamentals)
 
 ---
 
-## Intro scripts (practice aloud — full versions in `12` Section G)
+## Intro scripts (practice aloud — full versions in `11` Section G)
 
 ### 60 seconds
 
@@ -126,6 +126,6 @@ GITAM (CS fundamentals)
 
 ### 5 minutes (add)
 
-- Full TCS STAR (see `03` and `12` Section B)  
+- Full TCS STAR (see `05` and `11` Section B)  
 - Production tradeoff: LogReg latency vs transformer accuracy  
 - Growth goal: MLOps, model monitoring, NLP APIs  

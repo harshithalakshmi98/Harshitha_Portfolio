@@ -1,4 +1,4 @@
-# 07 — ML, NLP, Deep Learning & Computer Vision (Interview Q&A)
+# 09 — ML, NLP, Deep Learning & Computer Vision (Interview Q&A)
 
 Covers MSc coursework + ANN/PSO, F21AA, Crop AI projects.
 
@@ -186,4 +186,4 @@ Covers MSc coursework + ANN/PSO, F21AA, Crop AI projects.
 
 **Real company:** Uber/Lyft segment satisfaction models by market; Netflix by genre — same per-class thinking.
 
-> More narrated examples: [`12-real-world-examples-workbook.md`](./12-real-world-examples-workbook.md) Sections A, I.
+> More narrated examples: [`11-real-world-examples-workbook.md`](./11-real-world-examples-workbook.md) Sections A, I.
